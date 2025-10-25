@@ -45,4 +45,18 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![Uploading WhatsApp Image 2025-10-13 at 15.58.30_a74c2bd4.jpg…]()
+
+
+
+
+![Uploading WhatsApp Image 2025-10-13 at 15.58.31_74dd07ef.jpg…]()
+
+
+
+
+
+
+
+
 **RESULTS**
